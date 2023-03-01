@@ -1,0 +1,13 @@
+name = "DistanceTransformsPy"
+uuid = "d85f584c-7717-483c-8218-10621e78a8b8"
+authors = ["Dale-Black <djblack@uci.edu> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
